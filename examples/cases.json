@@ -1,0 +1,18 @@
+[
+  {
+    "case_id": 1,
+    "query": "ajax"
+  },
+  {
+    "case_id": 2,
+    "query": "manchester united OR manchester OR united OR man u OR man OR man utd OR mufc"
+  },
+  {
+    "case_id": 3,
+    "query": "(mbappe OR lukaku) AND scored"
+  },
+  {
+    "case_id": 4,
+    "query": "(juventus OR (real madrid OR realmadrid) OR barcelona) AND ((messi OR ronaldo) AND (goal OR goals))"
+  }
+]
